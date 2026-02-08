@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/none" target="blank"><img src="https://img.shields.io/twitter/follow/none?logo=twitter&style=for-the-badge" alt="none" /></a> </p>
 
-- 🔭 I’m currently working on [parnian school](https://github.com/RezaFrontEnd/tahamtan)
+- 🔭 I’m currently working on [fatemh motamed](https://github.com/RezaFrontEnd/tahamtan)
 
 - 🌱 I’m currently learning **html css javascript react.js next.js**
 
