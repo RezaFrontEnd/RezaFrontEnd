@@ -42,18 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezafrontend&show_icons=true&locale=en" alt="rezafrontend" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezafrontend&" alt="rezafrontend" /></p>
-
-
-
-
-# My 2025 GitHub Contribution Simulation 🌿🔥
-
-| Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 🟩2 | ⬜0 | 🟩🟩4 | 🟩1 | 🟩🟩3 | 🟩🟩🟩7 | 🟩1 | ⬜0 | 🟩2 | 🟩🟩5 | 🟩2 | 🟩🟩3 |
-| 🟩1 | 🟩🟩2 | ⬜0 | 🟩🟩3 | 🟩2 | 🟩🟩🟩8 | 🟩2 | 🟩🟩1 | ⬜0 | 🟩🟩4 | 🟩1 | 🟩🟩3 |
-| ⬜0 | 🟩2 | 🟩🟩3 | 🟩2 | 🟩🟩🟩6 | 🟩1 | ⬜0 | 🟩2 | 🟩🟩5 | 🟩2 | 🟩2 | 🟩🟩3 |
-
-**📌 کمترین کامیت:** 0 در 2025-01-02  
-**📌 بیشترین کامیت:** 8 در 2025-06-06
-
