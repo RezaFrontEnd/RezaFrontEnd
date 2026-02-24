@@ -42,3 +42,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezafrontend&show_icons=true&locale=en" alt="rezafrontend" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezafrontend&" alt="rezafrontend" /></p>
+
+
+
+
+# My 2025 GitHub Contribution Simulation 🌿🔥
+
+این جدول شبیه **Contribution Graph** هست و تعداد کامیت روزانه رو با مربع‌های رنگی نمایش می‌ده:
+
+| هفته 1 | هفته 2 | هفته 3 | هفته 4 | هفته 5 | ... |
+|--------|--------|--------|--------|--------|-----|
+| 🟩🟩⬜🟩⬜🟩🟩 | 🟩🟩🟩🟩🟩⬜🟩 | 🟩⬜🟩🟩🟩🟩🟩 | 🟩🟩🟩🟩⬜🟩🟩 | 🟩🟩🟩🟩🟩🟩🟩 | ... |
+
+> هر مربع = یک روز، تعداد مربع‌ها = تعداد کامیت‌ها  
+> رنگ‌ها شبیه نمودار GitHub برای یک سال کامل ۲۰۲۵ شبیه‌سازی شده است.
+
+---
+
+### Legend
+
+- ⬜ = ۰ کامیت  
+- 🟩 = ۱-۲ کامیت  
+- 🟩🟩 = ۳-۵ کامیت  
+- 🟩🟩🟩 = ۶-۱۰ کامیت  
+- 🟩🟩🟩🟩 = ۱۰+ کامیت
+
