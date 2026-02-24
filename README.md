@@ -42,25 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezafrontend&show_icons=true&locale=en" alt="rezafrontend" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezafrontend&" alt="rezafrontend" /></p>
-import json
-import random
-from datetime import datetime, timedelta
-
-# ساخت داده برای یک سال (2025)
-start_date = datetime(2025, 1, 1)
-data = []
-
-for i in range(365):
-    date = start_date + timedelta(days=i)
-    # روزهای جمعه و شنبه کمی پررنگ‌تر (کامیت بیشتر)
-    if date.weekday() in [5, 6]:  # 5=جمعه، 6=شنبه
-        count = random.randint(3, 15)
-    else:
-        count = random.randint(0, 8)
-    data.append({"date": date.strftime("%Y-%m-%d"), "count": count})
-
-# ذخیره JSON
-with open("github_contributions_2025.json", "w") as f:
-    json.dump(data, f, indent=2)
-
-print("فایل github_contributions_2025.json ساخته شد!")
